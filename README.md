@@ -46,12 +46,7 @@ import type { EndPointProps } from "globaltypes"
 
 export function POST({ request, response }: EndPointProps) {
     response(`And it's done.`);
-	/*
-	response({
-    message: "GET Request",
-    params: request.params
-    });
-    */
+	/* response({ message: "GET Request" }); */
 }
 ```
 
