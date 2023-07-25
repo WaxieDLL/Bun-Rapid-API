@@ -60,7 +60,7 @@ You can find more example on routes folder.
 ### Quick Start
 
 1. Clone repository
-``` git clone github.com/WaxieDLL/bun-rapid-api```
+``` git clone https://github.com/WaxieDLL/Bun-Rapid-API```
 2. Install dependencies
 ``` bun install ```
 3. Modify project however you like
