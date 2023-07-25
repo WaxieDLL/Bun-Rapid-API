@@ -46,12 +46,12 @@ import type { EndPointProps } from "globaltypes"
 
 export function POST({ request, response }: EndPointProps) {
     response(`And it's done.`);
-		/*
-		response({
-        message: "GET Request",
-        params: request.params
+	/*
+	response({
+    message: "GET Request",
+    params: request.params
     });
-		*/ // THIS IS FOR JSON RESPONSE
+    */
 }
 ```
 
@@ -60,12 +60,12 @@ You can find more example on routes folder.
 ### Quick Start
 
 1. Clone repository
-``` git clone https://github.com/WaxieDLL/Bun-Rapid-API```
+```git clone https://github.com/WaxieDLL/Bun-Rapid-API```
 2. Install dependencies
-``` bun install ```
+```bun install ```
 3. Modify project however you like
 4. Start the server
-``` bun start ```
+```bun start ```
 5. If you didn’t change port, you can take a look at 127.0.0.1:8080
 
 ### Lastly
