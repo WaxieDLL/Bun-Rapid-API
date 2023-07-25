@@ -1,9 +1,5 @@
 # Bun Rapid API
 
-### Purpose
-
-I created it for my personal projects for the purpose of easily creating API endpoints.
-
 ### Features
 
 It’s pretty early stage of this project but it’s  enough to get started already!
